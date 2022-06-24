@@ -15,6 +15,8 @@ To run the project, you can:
 Runs the app in the development mode. 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+Open [https://frontend-code-challenge-beta.vercel.app/](https://frontend-code-challenge-beta.vercel.app/) to view it in production on the browser.
+
 ## Description
 The Front-End Take-Home Challenge is a workflow editor that enables researchers to translate a scientific process into an application workflow. 
 
